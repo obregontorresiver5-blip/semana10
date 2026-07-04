@@ -1,0 +1,4 @@
+Evento: Se registra nueva denuncia en el formulario
+Acción: n8n envía mensaje a Telegram
+Mensaje: Nueva denuncia ID #123. Tipo: Alumbrado. Barrio: Centro
+NO enviar: Nombres, cédula, dirección exacta, teléfono

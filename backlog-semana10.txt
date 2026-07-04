@@ -1,0 +1,5 @@
+1. Registrar denuncia de la comunidad
+2. Enviar alerta por Telegram al coordinador
+3. Consultar estado de los reportes
+4. Ver estado de mi denuncia
+5. Exportar reporte mensual

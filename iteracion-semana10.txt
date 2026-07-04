@@ -1,0 +1,6 @@
+Iteración 1: Registrar denuncia y Enviar alerta Telegram
+¿Por qué?: Son la base para empezar a trabajar
+Definición de Terminado:
+1. Funciona sin errores
+2. Fue probada
+3. Está en GitHub
