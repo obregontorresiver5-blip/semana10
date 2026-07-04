@@ -1,4 +1,16 @@
-Evento: Se registra nueva denuncia en el formulario
-Acción: n8n envía mensaje a Telegram
-Mensaje: Nueva denuncia ID #123. Tipo: Alumbrado. Barrio: Centro
-NO enviar: Nombres, cédula, dirección exacta, teléfono
+Flujo de automatización con n8n y Telegram:
+
+Evento: Cuando se registra un nuevo reporte en el sistema.
+
+Acción: n8n envía un mensaje automático al grupo de Telegram del equipo.
+
+Mensaje: "Nuevo reporte recibido. ID: #123. Tipo: Acompañamiento. Por favor revisar el sistema."
+
+Información que NO se envía:
+- Nombres completos
+- Números de cédula 
+- Dirección
+- Teléfono
+- Otros datos personales sensibles
+
+Solo se envía: ID del reporte, fecha y tipo de incidencia.
