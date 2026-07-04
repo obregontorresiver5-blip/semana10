@@ -1,5 +1,5 @@
-1. Registrar denuncia de la comunidad
-2. Enviar alerta por Telegram al coordinador
-3. Consultar estado de los reportes
-4. Ver estado de mi denuncia
-5. Exportar reporte mensual
+1. Como ciudadano quiero registrar una incidencia para dejar evidencia del caso. PRIORIDAD ALTA
+2. Como coordinador quiero recibir una alerta en Telegram para revisar un nuevo reporte. PRIORIDAD ALTA
+3. Como miembro del equipo quiero consultar reportes para hacer seguimiento. PRIORIDAD MEDIA
+4. Como ciudadano quiero ver el estado de mi reporte para saber si fue atendido. PRIORIDAD MEDIA
+5. Como administrador quiero exportar reportes en Excel para hacer estadísticas. PRIORIDAD BAJA

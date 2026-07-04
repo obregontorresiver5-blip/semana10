@@ -1,5 +1,8 @@
-Las metodologías ágiles ayudan a organizar una comunidad porque dividimos el trabajo en tareas pequeñas y las priorizamos en un backlog. Al trabajar por iteraciones entregamos avances cada semana y podemos corregir errores rápido.
-
-La automatización con n8n ahorra tiempo porque envía reportes y alertas automáticamente sin hacerlo manual. Telegram sirve para comunicar al equipo y a la comunidad de forma inmediata.
-
-El riesgo es exponer datos personales si automatizamos información sensible. Por eso debemos usar estas herramientas de forma responsable, solo con datos no sensibles y siempre con revisión humana. Así la participación ciudadana es más transparente y eficiente.
+Las metodologías ágiles sirven para organizar el trabajo en tareas pequeñas y priorizar lo más urgente. 
+Un backlog nos ayuda a saber qué necesita primero la comunidad. 
+La automatización con n8n ahorra tiempo en tareas repetitivas como enviar alertas. 
+Telegram es útil para comunicar rápido con la comunidad y convocar reuniones. 
+Todo esto mejora la participación ciudadana porque la información llega más rápido. 
+Además permite que más personas se enteren sin necesidad de reuniones largas. 
+Es importante no compartir datos personales o sensibles por estos canales. 
+Usar la tecnología con responsabilidad fortalece la organización comunitaria.
